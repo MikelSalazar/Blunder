@@ -6,7 +6,7 @@ __Please note this project is in alpha stage. It still needs some work to make i
 
 ## Motivation
 
-The complexity of current module bundlers and frontend builders makes it difficult to control what it is really happpening with the TypeScript code you have been working so hard to write. While nowhere near as feature-rich as other solutions, Blunder offers a comprehensive set of tools that developers can easily tinker with to obtain the exact results they want.
+The complexity of current module bundlers and frontend builders makes it difficult to control what it is really happening with the TypeScript code you have been working so hard to write. While nowhere near as feature-rich as other solutions, Blunder offers a comprehensive set of tools that developers can easily tinker with to obtain the exact results they want.
 
 It might be a massive mistake (hence, the name of the project)... but it one we can make together.
 
@@ -30,7 +30,7 @@ The Bundler toolkit provides several tools to facilitate the development of Java
 
 Some of the principles that guide the development of this project are:
 
- * __Clean Code Generation:__ The resulting JavaScript code must be easy to debug and, even, to embed into the HTML file to create autocontained web apps.
+ * __Clean Code Generation:__ The resulting JavaScript code must be easy to debug and, even, to embed into the HTML file to create auto-contained web apps.
 
  * __No External Dependencies:__ Bundler is distributed as a single NodeJS package with no required dependencies to any other packages.
 
