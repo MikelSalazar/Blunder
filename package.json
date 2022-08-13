@@ -1,0 +1,27 @@
+{
+  "name": "blunder",
+  "version": "0.0.1",
+  "description": "An all-in-one development toolkit for web projects developed with TypeScript.",
+  "main": "blunder.js",
+  "scripts": {
+    "start": "node blunder.js",
+    "debug": "node blunder.js debug",
+    "test": "node blunder.js debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikelSalazar/Blunder.git"
+  },
+  "keywords": [
+    "blunder",
+    "all-in-one",
+    "typescript"
+  ],
+  "author": "Mikel Salazar",
+  "license": "MIT",
+  "bin": "",
+  "bugs": {
+    "url": "https://github.com/MikelSalazar/Blunder/issues"
+  },
+  "homepage": "https://github.com/MikelSalazar/Blunder#readme"
+}
